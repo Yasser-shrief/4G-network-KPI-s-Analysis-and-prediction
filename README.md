@@ -1,4 +1,4 @@
-# 4G-network-KPI-s-Analysis-regression
+# 4G network KPI's Analysis and prediction
 4G network KPI's Analysis &amp; regression including Dashboard 
 
 A typical 4G network consists of several nodes connected to each other, where each node serves users in the surrounding area. While users are accessing network services, their mobile phones record Key Performance Indicators (KPI’s) which can help network operators in assessing their quality of service.<br>
