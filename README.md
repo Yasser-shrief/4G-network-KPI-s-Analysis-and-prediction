@@ -6,7 +6,7 @@ There are many KPI’s which evaluate different aspects of the network. For exam
 
 For this challenge, I have two crowdsourced datasets: **RSRP and Traffic Volume.** Each dataset has the corresponding KPI measurements collected from mobile phones of different users over a week. It also includes the user’s location, operator, phone model and other information. Note that the data is in its raw format <br>
 
-The **dashboard** MUST include these 4 charts:
+The **dashboard** include these 4 charts:
 1. A time-lapse of a density map showing how users move during the hours of the day. You should see the density on the map changing according to people’s activities every hour. Use the locations in RSRP dataset.<br>
 2. A heat map of user locations for a selected operator colored by RSRP value with a dropdown menu to choose the operator.<br>
 
